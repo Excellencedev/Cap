@@ -11,10 +11,6 @@ node_modules
 dist
 dist-ssr
 *.local
-.env
-.env.production
-.env.development
-.env.test
 target
 .cursorrules
 
@@ -66,3 +62,4 @@ seo/
 .opencode/
 analysis/
 analysis/plans/
+config.bat
